@@ -1,1 +1,17 @@
-Initializing repo.
+ERC-20  -> Fungible tokens
+ERC-721 -> Non-fungible tokens
+
+\begin{definition}[Fungible]
+% https://www.merriam-webster.com/thesaurus/fungible
+capable of being substituted in place of one another
+\end{definition}
+
+\begin{definition}[Fungible Token]
+% My definition
+a token that is fungible
+\end{definition}
+
+\begin{definition}[Non-Fungible Token]
+% My definition
+a token that is not fungible.
+\end{definition}
