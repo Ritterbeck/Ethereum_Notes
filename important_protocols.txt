@@ -1,0 +1,62 @@
+Decentralized Lending on Ethereum
+=================================
+% https://defiprime.com/ethereum
+88mph
+Aave
+Abracadabra
+Alchemix
+Compound
+Euler
+Gearbox
+Liquity
+Mai Finance
+Notional
+Summer.fi
+TrueFi
+Unit Protocol
+
+Decentralized Exchanges
+=======================
+1inch.exchange
+Aevo
+AirSwap
+Balancer
+Bancor
+CowSwap
+Curve
+Dodo
+KyberSwap
+Matcha
+ParaSwap
+SushSwap
+Uniswap
+dYdX
+
+Derivatives
+===========
+Aevo
+Cryptex Finance
+Hegic
+NFT20
+NFTX
+Olympus DAO
+Opyn
+PieDAO
+Reflexer
+Synthetix
+
+Stablecoins
+===========
+% https://defiprime.com/ethereum
+Ampleforth
+Augmint
+DAI
+DefiDollar
+Frax
+Gemini Dollar
+HUSD
+Pax Dollar
+pTokens
+TrueUSD
+USD Coin
+WBTC
